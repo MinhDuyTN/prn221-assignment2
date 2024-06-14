@@ -1,0 +1,15 @@
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\pcx\Documents\PRN221\TranNgoMinhDuy_NET1709_A02\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
